@@ -6,7 +6,6 @@ To clean, merge, and analyze hotel booking data across multiple years, and visua
 ## 📁 Dataset Source
 [Dataset](https://github.com/JayaKrishna1008/Hotel-Revenue-Analysis-using-SQL-Power-BI/blob/main/Raw%20Data%20Hotel_revenue.xlsx)
 
-## 📂 Dataset Overview
 Raw Source: Excel files containing hotel bookings from 2018, 2019, and 2020
 
 Merged Using: SQL UNION operation
