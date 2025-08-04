@@ -29,3 +29,14 @@ Final Output: Clean dataset used for Power BI visualizations
 ✅ Revenue per Booking Channel
 
 ✅ Cancellations and Lead Time Analysis
+
+## 📈 Dashboard
+![Dashborad Img](https://github.com/JayaKrishna1008/Hotel-Revenue-Analysis-using-SQL-Power-BI/blob/main/Dashborad%20Img.png)
+
+## 🧰 Tools Used
+- SQL Server / SSMS (for data transformation)
+- Microsoft Excel (raw data format)
+- Power BI (dashboard creation and storytelling)
+
+## ✅ Final Conclusion
+Using a combination of SQL and Power BI, this project provides a full pipeline of hotel revenue analysis — from raw data merging to visual insight generation. Business stakeholders can use this analysis to improve marketing focus, optimize pricing strategies, and manage occupancy more efficiently.
