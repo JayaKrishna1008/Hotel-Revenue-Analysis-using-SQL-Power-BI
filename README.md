@@ -1,2 +1,7 @@
-# Hotel-Revenue-Analysis-using-SQL-Power-BI
-A SQL and Power BI project analyzing hotel booking and revenue data (2018–2020). Covers data cleaning, trend analysis, market segmentation, and interactive dashboard insights for business decisions.
+# 📊  Hotel-Revenue-Analysis-using-SQL-Power-BI
+
+## 🎯 Project Objective
+To clean, merge, and analyze hotel booking data across multiple years, and visualize insights that can guide strategic decisions in pricing, customer targeting, and operational planning.
+
+## 📁 Dataset Source
+[Dataset](https://github.com/JayaKrishna1008/Hotel-Revenue-Analysis-using-SQL-Power-BI/blob/main/Raw%20Data%20Hotel_revenue.xlsx)
